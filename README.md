@@ -1,4 +1,4 @@
-### Hello there! 👋 It's [Kunal!]
+### Hello there! 👋 It's Kunal!
  
 <br/>
  
@@ -20,23 +20,16 @@ Hi,I'm Kunal Pandya🙌, a student in Bachelor's of Software Engineering passion
  
 **Talking about Personal Stuffs:**
  
-- 🔭 I’m currently Intern at CodeCrunch.
-- 🌱 I’m currently learning Angular.
-- 👯 Part of Developer Community.
-- 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platform 
-- ⚡ Check out my recent [Blogs](https://medium.com/@saketprag322)
-- 📝[Portfolio](https://sakigo9.github.io/MyPortfolio/)
-- ✨ I can draw too.[ArtGallery](https://www.instagram.com/finding_my.way/)
+- 🔭 I’m currently a part time coding tutor at Ultimate Coders
+- 🌱 I’m currently learning React and sanity.
+- 💬 Ask me about anything via social media or email me @ rrkspandya@gmail.com
+- 🔍 Currently looking for co-op opportunities
  
  
  
-**Community**
-- Google Developer Group Bengaluru
-- HackClub NMIT
-- Tensorflow Community Bengaluru
-- Girlscript Foundation
-- Coding Ninja
+**Clubs**
+- 🏎️ Ontario Tech Racing
+- 🙏Gujarati Student Association
  
 **Languages and Tools:**
  
