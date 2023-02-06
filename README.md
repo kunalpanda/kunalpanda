@@ -1,6 +1,6 @@
-### Hello there! 👋 It's Kunal!
 
- 
+<span>
+### Hello there! 👋 It's Kunal!
  
 <a href="https://www.linkedin.com/in/kunal-pandya-17a5421b3/">
 <img align="right" alt="Kunal Pandya" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/_kunal.02/">
 <img align="right" alt="Kunal Pandya" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
+</span>
 <br />
 
 
