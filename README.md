@@ -35,9 +35,9 @@ Hi,I'm Kunal Pandya🙌, a student in Bachelor's of Software Engineering passion
  
  
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://learn.microsoft.com/en-us/windows/images/c-logo.png"></code>
+<code><img height="20" src="https://e7.pngegg.com/pngimages/1018/16/png-clipart-mysql-workbench-database-mysql-cluster-others-text-logo.png"></code>
+<code><img height="20" src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png"></code>
+<code><img height="20" src="https://www.angleritech.com/wp-content/uploads/2020/10/reactjs-web-development-company.png"></code>
  
 ![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=kunalpanda&show_icons=true&hide_border=true)
