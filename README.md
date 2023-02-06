@@ -1,6 +1,6 @@
 
 <span>
-<h2 align="center">Hello there! 👋 It's Kunal!</h2>
+<h2 align="center">👋 It's Kunal Pandya!</h2>
  
 <a href="https://www.linkedin.com/in/kunal-pandya-17a5421b3/">
 <img align="right" alt="Kunal Pandya" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -9,13 +9,14 @@
 <img align="right" alt="Kunal Pandya" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 </span>
+
 <br />
 
 
 
 <br />
  
-Hi,I'm Kunal Pandya🙌, a student in Bachelor's of Software Engineering passionate about web development, cloud computing and problem solving. Apart from that I'm a car enthusiast who loves Formula 1.
+Hi, I'm Kunal Pandya🙌, a student in Bachelor's of Software Engineering passionate about web development, cloud computing and problem solving. Apart from that I'm a car enthusiast who loves Formula 1.
 
  
  
