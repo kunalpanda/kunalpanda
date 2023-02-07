@@ -1,6 +1,6 @@
 
 <span>
-<h2 align="center"> \<Kunal Pandya!\></h2>
+<h2 align="center"> /<Kunal Pandya!/></h2>
  
 <a href="https://www.linkedin.com/in/kunal-pandya-17a5421b3/">
 <img align="right" alt="Kunal Pandya" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
