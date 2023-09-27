@@ -29,7 +29,7 @@ Hi, I'm Kunal Pandya🙌, a student in Bachelor's of Software Engineering passio
 
  **Co-op experience**
 
-- <img align="right" alt="Kunal Pandya" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg](https://www.womenapprentices.ca/wp-content/uploads/job-manager-uploads/company_logo/vale.png)"/>
+- <img align="left" alt="Kunal Pandya" width="22px" src="https://www.womenapprentices.ca/wp-content/uploads/job-manager-uploads/company_logo/vale.png"/>
 
  
  
