@@ -22,11 +22,15 @@ Hi, I'm Kunal Pandya🙌, a student in Bachelor's of Software Engineering passio
  
 **Talking about Personal Stuffs:**
  
-- 🔭 I’m currently a part time coding tutor at Ultimate Coders
-- 🌱 I’m currently learning React and sanity.
-- 💬 Ask me about anything via social media or email me @ rrkspandya@gmail.com
-- 🔍 Currently looking for co-op opportunities
- 
+- 🔭 I’m working a part-time coding tutor at Ultimate Coders
+- 🌱 I’m currently learning embedded systems development.
+- 💬 Ask me about anything via social media or email me @ kunal.pandya2@ontariotechu.net
+- 🔍 Open for co-op opportunities for 2024-2025
+
+ **Co-op experience**
+
+- <img align="right" alt="Kunal Pandya" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg](https://www.womenapprentices.ca/wp-content/uploads/job-manager-uploads/company_logo/vale.png)"/>
+
  
  
 **Clubs**
