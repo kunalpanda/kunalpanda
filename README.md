@@ -30,6 +30,7 @@ Hi, I'm Kunal Pandya🙌, a student in Bachelor's of Software Engineering passio
  **Co-op experience**
 
 - <img align="left" alt="Kunal Pandya" width="30px" src="https://companieslogo.com/img/orig/VALE-9213b7ec.png?t=1634114437"/> 4 month co-op with Vale as an Information Technology Intern
+- <img align="left" alt="Kunal Pandya" width="30px" src="https://www.hitachicm.us/wp-content/uploads/2024/03/HCMA_CanadaFeatured1.png"/> 4 month co-op with Hitachi Truck Manufacturing as an Systems Design Engineer Co-op
 
  
  
